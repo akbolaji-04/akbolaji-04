@@ -1,38 +1,52 @@
-# 👋 Hey, I'm Abolaji  
+<h1 align="center">👋 Hey, I'm <span style="color:#6C63FF;">Abolaji</span></h1>
 
-💻 **Web Developer | UI/UX Enthusiast | Digital Creator**
+<p align="center">
+  💻 <b>Web Developer</b> | 🎨 <b>UI/UX Enthusiast</b> | ⚡ <b>Digital Creator</b>  
+</p>
 
-I build clean, responsive, and user-focused web experiences that blend creativity with performance. I love turning design concepts into reality — from sleek landing pages to full-stack web apps.
+<p align="center">
+  <a href="https://www.linkedin.com/in/abolaji-akorede-1068ab327">LinkedIn</a> •
+  <a href="mailto:akbolaji04@gmail.com">Email</a> •
+  <a href="https://shadow-designs.netlify.app">Portfolio</a>
+</p>
 
 ---
 
 ### 🚀 Featured Projects  
 
-🌐 **[Atmos](https://atmos-ak.netlify.app/)**  
-Creative agency landing page with smooth animations and responsive layouts.
-
-🌱 **[AuraGrow](https://auragrow.netlify.app/)**  
-Plant growth and management dashboard built with modern UI components.
-
-✅ **[TaskFlow](https://task-flow-ak.netlify.app/)**  
-Task management web app focused on simplicity, speed, and UX clarity.
+| 🌍 Project | 🛠️ Stack | 🔗 Live Demo |
+|-------------|------------|--------------|
+| **Atmos** | HTML, CSS, JS | [Visit Site](https://atmos-ak.netlify.app/) |
+| **AuraGrow** | React, Tailwind | [Visit Site](https://auragrow.netlify.app/) |
+| **TaskFlow** | React, LocalStorage | [Visit Site](https://task-flow-ak.netlify.app/) |
+| **Cineverse** | React, TMDB API | [Visit Site](https://cineverse-ak.netlify.app/) |
 
 ---
 
-### 🧩 Tech Stack  
+### 🧠 Tech Stack  
 
-**Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
-**Backend:** Node.js, Express.js, MongoDB  
-**Design:** Figma, Affinity Designer, Adobe XD  
-**Others:** Git, GitHub, Netlify, Vercel, REST APIs  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,nodejs,express,mongodb,git,github,netlify,vercel" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akbolaji-04&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbolaji-04&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
 
 ---
 
-### 🌍 Connect with Me  
+### 🌍 A Little About Me  
 
-[💼 LinkedIn](https://www.linkedin.com/in/abolaji-akorede-1068ab327)  
-[✉️ Email](mailto:akbolaji04@gmail.com)
-
----
+- 🧩 I build clean, modern, and responsive digital experiences.  
+- 🎯 Focused on turning creative designs into functional code.  
+- 💡 Always learning, always evolving.  
+- ⚙️ Currently exploring **Next.js** and **WordPress** projects.  
 
 > “Code is art — I just paint with logic.” 🎨
+
+---
