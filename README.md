@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hey, I'm Abolaji  
 
-<!--
-**akbolaji-04/akbolaji-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Web Developer | UI/UX Enthusiast | Digital Creator**
 
-Here are some ideas to get you started:
+I build clean, responsive, and user-focused web experiences that blend creativity with performance. I love turning design concepts into reality — from sleek landing pages to full-stack web apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects  
+
+🌐 **[Atmos](https://atmos-ak.netlify.app/)**  
+Creative agency landing page with smooth animations and responsive layouts.
+
+🌱 **[AuraGrow](https://auragrow.netlify.app/)**  
+Plant growth and management dashboard built with modern UI components.
+
+✅ **[TaskFlow](https://task-flow-ak.netlify.app/)**  
+Task management web app focused on simplicity, speed, and UX clarity.
+
+---
+
+### 🧩 Tech Stack  
+
+**Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap  
+**Backend:** Node.js, Express.js, MongoDB  
+**Design:** Figma, Affinity Designer, Adobe XD  
+**Others:** Git, GitHub, Netlify, Vercel, REST APIs  
+
+---
+
+### 🌍 Connect with Me  
+
+[💼 LinkedIn](https://www.linkedin.com/in/abolaji-akorede-1068ab327)  
+[✉️ Email](mailto:akbolaji04@gmail.com)
+
+---
+
+> “Code is art — I just paint with logic.” 🎨
