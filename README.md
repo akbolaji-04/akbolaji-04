@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#6C63FF;">Abolaji</span></h1>
 
 <p align="center">
-  💻 <b>Web Developer</b> | 🎨 <b>UI/UX Enthusiast</b> | ⚡ <b>Digital Creator</b>  
+  💻 <b>Web Developer</b> | 🎨 <b>Software Engineer</b> | ⚡ <b>Digital Creator</b>  
 </p>
 
 <p align="center">
@@ -16,10 +16,12 @@
 
 | 🌍 Project | 🛠️ Stack | 🔗 Live Demo |
 |-------------|------------|--------------|
-| **Atmos** | HTML, CSS, JS | [Visit Site](https://atmos-ak.netlify.app/) |
-| **AuraGrow** | React, Tailwind | [Visit Site](https://auragrow.netlify.app/) |
-| **TaskFlow** | React, LocalStorage | [Visit Site](https://task-flow-ak.netlify.app/) |
+| **Bytebits** | React, Tailwind, FIrebase| [Visit Site](https://bytebites.netlify.app/) |
 | **Cineverse** | React, TMDB API | [Visit Site](https://cineverse-ak.netlify.app/) |
+| **SubSync** | React, Supabase | [Visit Site](https://subsync-1.netlify.app/) |
+| **TraderGuard** | React, Tailwind | [Visit Site](https://trader-guard.netlify.app/) |
+| **Zubicle** | HTML, CSS, JS | [Visit Site](https://zubicle.netlify.app/#) |
+
 
 ---
 
@@ -27,15 +29,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,nodejs,express,mongodb,git,github,netlify,vercel" />
-</p>
-
----
-
-### 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akbolaji-04&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akbolaji-04&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
