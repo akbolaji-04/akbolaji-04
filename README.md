@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/abolaji-akorede-1068ab327">LinkedIn</a> •
   <a href="mailto:akbolaji04@gmail.com">Email</a> •
-  <a href="https://shadow-designs.netlify.app">Portfolio</a>
-</p>
 
 ---
 
