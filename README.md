@@ -1,44 +1,33 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#6C63FF;">Abolaji</span></h1>
+# 👋 Hi, I'm Abolaji Akorede
 
-<p align="center">
-  💻 <b>Web Developer</b> | 🎨 <b>Software Engineer</b> | ⚡ <b>Digital Creator</b>  
-</p>
+**Full-Stack Web & Mobile Developer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abolaji-akorede-1068ab327">LinkedIn</a> •
-  <a href="mailto:akbolaji04@gmail.com">Email</a> •
-  <a href="https://my-portfolio-iota-three-4ailaadamf.vercel.app/">Portfolio</a> 
+I build fast, scalable, and high-performance digital products. With over 4 years of experience, I specialize in designing and deploying full-stack web and mobile applications with a strong focus on clean architecture, seamless user experiences, and production-ready code.
+
+[Portfolio Website](https://my-portfolio-iota-three-4ailaadamf.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/abolaji-akorede-1068ab327) • [Email](mailto:akbolaji04@gmail.com)
 
 ---
 
-### 🚀 Featured Projects  
+### 💻 Tech Stack
 
-| 🌍 Project | 🛠️ Stack | 🔗 Live Demo |
-|-------------|------------|--------------|
-| **Bytebits** | React, Tailwind, FIrebase| [Visit Site](https://bytebites.netlify.app/) |
-| **Cineverse** | React, TMDB API | [Visit Site](https://cineverse-ak.netlify.app/) |
-| **SubSync** | React, Supabase | [Visit Site](https://subsync-1.netlify.app/) |
-| **TraderGuard** | React, Tailwind | [Visit Site](https://trader-guard.netlify.app/) |
-| **Zubicle** | HTML, CSS, JS | [Visit Site](https://zubicle.netlify.app/#) |
-
+* **Frontend:** Next.js, React, TypeScript, Flutter, Tailwind CSS
+* **Backend & BaaS:** PostgreSQL, Firebase, Supabase, REST APIs
+* **Tools & Architecture:** Git, Docker, Figma, Lighthouse Performance Optimization
 
 ---
 
-### 🧠 Tech Stack  
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,figma,nodejs,express,mongodb,git,github,netlify,vercel" />
-</p>
-
----
-
-### 🌍 A Little About Me  
-
-- 🧩 I build clean, modern, and responsive digital experiences.  
-- 🎯 Focused on turning creative designs into functional code.  
-- 💡 Always learning, always evolving.  
-- ⚙️ Currently exploring **Next.js** and **WordPress** projects.  
-
-> “Code is art — I just paint with logic.” 🎨
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **CineVerse** | Server-rendered movie discovery and tracking platform with optimized dynamic content rendering. | Next.js, TypeScript, TMDB API | [Live Demo](https://cineverse-ak.netlify.app/) |
+| **ByteBites** | Food-ordering application enabling real-time order tracking and seamless user interaction. | Next.js, Firebase | [Live Demo](https://bytebites.netlify.app/) |
+| **Zubicle** | SaaS management platform built to streamline office operations and optimize resource allocation. | Next.js, Supabase | [Live Demo](https://zubicle.netlify.app/) |
 
 ---
+
+### 🌍 A Little About Me
+
+* 🧩 I focus on bridging the gap between high-fidelity design and high-performance code.
+* 🎯 Experienced in modernizing legacy applications and optimizing assets to achieve 90+ Lighthouse scores.
+* 💡 I believe technology is only as good as its real-world usability. 
